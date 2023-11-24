@@ -1,0 +1,6 @@
+data/thumbnails/*.jpg
+data/requests/*.json
+*.mp4
+*.part
+*.ytdl
+
